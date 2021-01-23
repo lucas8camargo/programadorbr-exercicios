@@ -20,7 +20,7 @@ Condicionais e Loops
 
 9 - Escreva um programa que receba um array de objetos com as propriedades altura e idade e imprima: A maior e menor altura e a média da idade.
 
-10 - Escreva um programa que imprima o seguinte padrão:
+10 - Escreva um programa que imprima o seguinte padrão:  
 0
 00
 000
